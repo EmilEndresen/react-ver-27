@@ -7,14 +7,17 @@ function App() {
 
    return (
       <div className="App">
-         <h1>Hallaien</h1>
+         <h1>Heisann</h1>
          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt in non
-            deleniti sapiente cupiditate nulla aliquid, id dignissimos! Ipsum quae
-            similique dolores id corporis officiis quos rerum praesentium dolorem
-            perferendis.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos maxime
+            dignissimos id laudantium nobis iure fugiat neque itaque maiores illo.
          </p>
-         <h2>Joda</h2>
+         <h2>Godt Nyttår</h2>
+         <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores autem
+            voluptatem molestias ab est provident impedit pariatur ea eum ad. Ipsum
+            maxime animi aspernatur itaque officia quam ex debitis unde.
+         </p>
       </div>
    )
 }
